@@ -24,8 +24,8 @@ body {
 }
 @font-face {
     font-family: 'helvetica_neue_lt_std43LtEx';
-    src: url('assets/helvetica_neue_lt_std_43_light_extended-webfont.woff2') format('woff2'),
-         url('assets/helvetica_neue_lt_std_43_light_extended-webfont.woff') format('woff');
+    src: url('helvetica_neue_lt_std_43_light_extended-webfont.woff2') format('woff2'),
+         url('helvetica_neue_lt_std_43_light_extended-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
