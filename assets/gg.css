@@ -189,6 +189,8 @@ a:link, a:visited, a:active { color:#6c8aa4; text-decoration: underline}
     }
     .blast {
         height: 60vh;
+	margin-top: 10vh;
+        margin-bottom: 10vh;
     }
     .imageblast {
         width: 35vh;
